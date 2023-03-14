@@ -1,6 +1,8 @@
 # Machine Learning for COVID-19 Radiography Diagnosis using Convolutional Neural Networks
-![COVID-32](https://user-images.githubusercontent.com/39009079/224980789-ea399f73-49ad-4681-aa4f-4fff0d58cc43.png)
+![xray4](https://user-images.githubusercontent.com/39009079/224993368-0cc4f365-8907-4417-a595-c1e079028839.png)
 
+
+## Overview
 This project implements three approaches to Convolutional Neural Networks (CNNs) to classify chest radiography images into four classes: COVID-19, Normal, Lung Opacity and Viral Pneumonia. The dataset used in this project is the [COVID-19 Radiography Dataset](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database), which contains chest radiography images categorized into those four classes.
 
 ## Dataset
